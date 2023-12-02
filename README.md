@@ -1,5 +1,6 @@
 ❤️ Heart Disease Prediction with Machine Learning 🤖🩺
-Overview 🌐
+
+
 This repository contains code for a Heart Disease Prediction system using Machine Learning algorithms. The goal is to build a predictive model that can assist in early detection of heart disease based on a set of input features.
 
 -Data Preprocessing: Clean and preprocess the raw dataset to handle missing values, outliers, and feature scaling.
